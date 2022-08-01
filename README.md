@@ -1,1 +1,2 @@
-# Simplifi-assignment
+1. The program to convert integer number to INR format by seperating the decimal and the integer number. Followed up by attaching ',' in the pattern of INR like after first 3digits then 2 digits and so on. 
+2. The program is to find the minimum number of players who need to get shot so that Ali is visible in line of sight of Gi-Hun. For checking the no of people who need to be shot we will check if someone's height is greater than the height of Ali/Gi-Hun then count varible is incremented 
